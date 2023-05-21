@@ -3,10 +3,7 @@ VERSION:3.0
 N:Smith;Russ;;;
 FN:Russ Smith
 ORG:Smith Brothers Lawn Service
-ADR;TYPE=WORK:96 Benbridge Avenue
-Warwick RI
-02888
-
+ADR;TYPE=WORK:
 TITLE:
 TEL;TYPE=CELL:
 TEL;TYPE=WORK:(401)941-0283
@@ -18,5 +15,5 @@ URL:
 
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100663695
+UID:EnBizCard-100524729
 END:VCARD
